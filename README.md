@@ -7,7 +7,10 @@ Webdriver Gecko issues
 1 - Install the Webdriver Gecko driver in:
     /usr/bin/ 
 
-2 - Install maven
+2 - Install Java/maven
 
 3 - To run the test execute
     mvn test
+    
+N.B: On the test if you uncomment the chrome driver the test pass.    
+    
